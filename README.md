@@ -1,5 +1,5 @@
 # Hello, I'm Rasyid Ridho Azhari
-<a href="https://linkedin.com/in/rasyid-ridho-azhari-36b19228b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rasyid-ridho-azhari-36b19228b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <endline>
 I'm a fresh graduate with a growing passion for Cybersecurity and Artificial Intelligence. Currently exploring the fundamentals of ethical hacking, machine learning, and how these two fields intersect.
 
 ## Objective
